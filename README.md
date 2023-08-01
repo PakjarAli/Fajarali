@@ -1,5 +1,3 @@
-# Fajarali
-
 #cangelog
 Memory Performance
 - Rearrange Litle Core ,Big Core CPU
